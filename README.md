@@ -1,5 +1,5 @@
 # Black-Coffer-Sentimental-analysis
-Extract textual data articles from the given URL and perform text analysis to compute variables like Positive Score,Negative Score,Polarity Score etc.
+Extract textual data articles from the given URLs and perform text analysis to compute variables like Positive Score,Negative Score,Polarity Score etc.
 Positive Score: This score is calculated by assigning the value of +1 for each word if found in the Positive Dictionary and then adding up all the values.
 
 Negative Score: This score is calculated by assigning the value of -1 for each word if found in the Negative Dictionary and then adding up all the values. We multiply the score with -1 so that the score is a positive number.
